@@ -1,10 +1,5 @@
 #labels SummitXL,Stack,Packages
-
 #Packages of the SummitXL stack
-
-summit_xl_odometry
-summit_xl_sbpl_nav
-summit_xl_tf
 
 = Packages of the SummitXL stack =
 

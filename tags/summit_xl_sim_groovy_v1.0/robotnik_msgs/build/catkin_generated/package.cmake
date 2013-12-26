@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "robotnik_msgs")
+set(robotnik_msgs_MAINTAINER "rnavarro <rnavarro@robotnik.es>")
+set(robotnik_msgs_DEPRECATED "")
+set(robotnik_msgs_VERSION "0.0.1")
+set(robotnik_msgs_BUILD_DEPENDS )
+set(robotnik_msgs_RUN_DEPENDS )
+set(robotnik_msgs_BUILDTOOL_DEPENDS "catkin")

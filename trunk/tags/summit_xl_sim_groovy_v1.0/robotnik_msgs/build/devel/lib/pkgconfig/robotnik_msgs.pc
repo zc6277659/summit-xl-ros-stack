@@ -1,8 +1,0 @@
-prefix=/svn/svn_components/robotnik_msgs/groovy/robotnik_msgs/build/devel
-
-Name: robotnik_msgs
-Description: Description of robotnik_msgs
-Version: 0.0.1
-Cflags: -I/svn/svn_components/robotnik_msgs/groovy/robotnik_msgs/build/devel/include
-Libs: -L/svn/svn_components/robotnik_msgs/groovy/robotnik_msgs/build/devel/lib 
-Requires: 

@@ -1,4 +1,4 @@
-#labels SummitXL,X-WAM
+#labels SummitXL,SummitXLHL,X-WAM
 = Packages of the SummitXL stack =
 
 *bh262_description*

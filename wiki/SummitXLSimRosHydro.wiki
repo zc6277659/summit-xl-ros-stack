@@ -3,7 +3,7 @@
 
 *bh262_description*
 
-Contains the description of the BarrettHand, urdf and meshes. This Hand is mounted on the WAM arm and is the end effector used by the [http://www.robotnik.es/en/products/mobile-manipulators/x-wam X-WAM mobile manipulator].
+Contains the description of the Barrett Hand: urdf and meshes. This Hand is mounted on the WAM arm and is the end effector used by the [http://www.robotnik.es/en/products/mobile-manipulators/x-wam X-WAM mobile manipulator].
 
 *summit_xl_2dnav*
 

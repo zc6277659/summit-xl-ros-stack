@@ -3,7 +3,7 @@
 
 *bh262_description*
 
-Contains the description of the BarrettHand, urdf and meshes. This Hand is mounted on the WAM arm and is the end effector used by the X-WAM mobile manipulator http://www.robotnik.es/en/products/mobile-manipulators/x-wam.
+Contains the description of the BarrettHand, urdf and meshes. This Hand is mounted on the WAM arm and is the end effector used by the  [http://www.robotnik.es/en/products/mobile-manipulators/x-wam X-WAM mobile manipulator].
 
 *summit_xl_2dnav*
 
@@ -27,7 +27,7 @@ test node to publish joint states (as alternative to the joint_state_publisher)
 
 *summit_xl_joystick*
 
-node to process the joystick in simulation (configured for PS3, but others are also possible)
+node to process the joystick in simulation (configured for PS3, but others are also possible).
 
 *summit_xl_robot_control*
 
@@ -35,7 +35,7 @@ control the robot joints in all kinematic configurations, publishes odom topic a
 
 *summit_xl_waypoints*
 
-pass a set of goals from a file to the move_base stack
+pass a set of goals from a file to the move_base stack.
 
 *wam_description*
 
@@ -43,9 +43,8 @@ Barrett WAM (Whole Arm Manipulator) urdf and meshes.
 
 *xl_terabot_description*
 
-Robot description of the XL-Terabot robot 
-http://www.robotnik.es/en/products/mobile-manipulators/xl-terabot
+Robot description of the [http://www.robotnik.es/en/products/mobile-manipulators/xl-terabot XL-Terabot robot].
 
 *x_wam_moveit*
 
-Draft moveit package to control the X-WAM
+Draft moveit package to control the X-WAM.

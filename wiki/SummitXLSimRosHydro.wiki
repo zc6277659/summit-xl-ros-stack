@@ -10,6 +10,7 @@ Contains the description of the Barrett Hand: urdf and meshes. This Hand is moun
 
 This package contains all the configuration files needed to execute the AMCL and SLAM navigation algorithms in simulation.
    
+
 *summit_xl_control*
 
 New gazebo 1.9 style robot control

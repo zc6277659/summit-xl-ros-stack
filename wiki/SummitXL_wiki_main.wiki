@@ -1,5 +1,8 @@
-#labels SummitXL,Stack,Packages
-#Packages of the SummitXL stack
+#labels SummitXL,Stack,Packages,SummitXLHL,X-WAM
+#Packages of the SummitXL, XL HL and X-WAM stack
+
+ROS Hydro stack:
+[https://code.google.com/p/summit-xl-ros-stack/wiki/SummitXLSimRosHydro]
 
 ROS Fuerte stack:
 [https://code.google.com/p/summit-xl-ros-stack/wiki/SummitXLSimRosFuerte]
